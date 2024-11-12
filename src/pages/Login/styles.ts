@@ -23,6 +23,10 @@ export const LoginContainer = styled.div`
     display: flex;
     align-items: flex-start;
     justify-content: center;
+
+    box-shadow: 3px 1px 24px -2px rgba(0,0,0,0.38);
+    -webkit-box-shadow: 3px 1px 24px -2px rgba(0,0,0,0.38);
+    -moz-box-shadow: 3px 1px 24px -2px rgba(0,0,0,0.38);
 `
 
 export const Title = styled.h1`
